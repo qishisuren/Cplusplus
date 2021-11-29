@@ -1,0 +1,2 @@
+D:\app\Visual Studio\project\简易通讯录\Debug\简易通讯录.exe
+D:\app\Visual Studio\project\简易通讯录\Debug\简易通讯录.pdb
